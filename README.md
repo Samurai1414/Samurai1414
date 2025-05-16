@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Samurai1414/Samurai1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Vishal 👨‍💻 from India, a passionate MERN Stack Developer with a love for AI/ML, Java, Python, C++, and Web Technologies. I enjoy solving complex problems, building scalable applications, and thinking with a business-first approach.
 
-Here are some ideas to get you started:
+I don’t just code—I create solutions. ✨
+Feel free to connect with me https://www.instagram.com/v_shal_140/ for anything tech-related or just to say hello! Let's shape the future of tech together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Tech Stack & Expertise
+Talk to me about:
+✔ Full-Stack Development (React.js, Node.js, Express.js, MongoDB)
+✔ AI/ML, DSA, & Algorithmic Problem Solving
+✔ Backend Development (Django, Flask, Node)
+✔ Database Management (MySQL, PL/SQL, PostgreSQL,)
+✔ Mathematics & Data Structures
+
+💬 Let’s Connect & Collaborate! Feel free to DM me for tech discussions, collaborations, or just to say hello. 😎
